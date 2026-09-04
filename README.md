@@ -2,7 +2,6 @@
 
 Official Runtime plugin specification and marketplace: MCP connectors, skills, and agent tools.
 
-**Parity or better** vs Cursor / Grok Bot plugin directories — same marketplace shape, Runtime branding, and account-owned auth injection.
 
 Monorepo companion: [lemon-squared/Runtime-Monorepo](https://github.com/lemon-squared/Runtime-Monorepo).
 
@@ -78,7 +77,7 @@ JSON Schema (draft-07) definitions live under [`schemas/`](schemas/). They are R
 
 ## Assets
 
-Where present, plugin logos under `*/assets/` are sourced from [Cursor's `third_party` plugin logos](https://github.com/cursor/plugins/tree/main/third_party) (and `create-plugin/assets/avatar.png` from Cursor's create-plugin). Brand marks remain their respective owners'. Slack, Notion, and Granola have no logo assets in cursor/plugins — those directories keep `assets/.gitkeep` until official marks are available.
+Plugin logos live under each plugin's `assets/` directory (`logo` in `plugin.json`). Brand marks remain their respective owners'. Slack, Notion, and Granola keep `assets/.gitkeep` until official marks are available.
 
 ## License
 
