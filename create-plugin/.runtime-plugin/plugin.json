@@ -10,6 +10,7 @@
   "homepage": "https://github.com/lemon-squared/plugins/tree/main/create-plugin",
   "repository": "https://github.com/lemon-squared/plugins",
   "license": "MIT",
+  "logo": "assets/avatar.png",
   "keywords": [
     "create-plugin",
     "runtime-plugin",

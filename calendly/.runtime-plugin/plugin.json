@@ -10,6 +10,7 @@
   "homepage": "https://github.com/lemon-squared/plugins/tree/main/calendly",
   "repository": "https://github.com/lemon-squared/plugins",
   "license": "MIT",
+  "logo": "assets/logo.png",
   "keywords": [
     "calendly",
     "scheduling",

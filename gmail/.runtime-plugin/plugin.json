@@ -10,6 +10,7 @@
   "homepage": "https://github.com/lemon-squared/plugins/tree/main/gmail",
   "repository": "https://github.com/lemon-squared/plugins",
   "license": "MIT",
+  "logo": "assets/logo.svg",
   "keywords": [
     "gmail",
     "email",

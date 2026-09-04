@@ -76,6 +76,10 @@ CI runs the same check on push/PR via `.github/workflows/validate-plugins.yml`.
 
 JSON Schema (draft-07) definitions live under [`schemas/`](schemas/). They are Runtime-owned manifests adapted for `.runtime-plugin/` layout.
 
+## Assets
+
+Where present, plugin logos under `*/assets/` are sourced from [Cursor's `third_party` plugin logos](https://github.com/cursor/plugins/tree/main/third_party) (and `create-plugin/assets/avatar.png` from Cursor's create-plugin). Brand marks remain their respective owners'. Slack, Notion, and Granola have no logo assets in cursor/plugins — those directories keep `assets/.gitkeep` until official marks are available.
+
 ## License
 
 MIT
