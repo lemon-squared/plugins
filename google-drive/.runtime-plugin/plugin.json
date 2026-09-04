@@ -1,0 +1,31 @@
+{
+  "name": "google-drive",
+  "displayName": "Google Drive",
+  "version": "0.1.0",
+  "description": "Search, read, create, and share files.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/google-drive",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "google-drive",
+    "files",
+    "docs",
+    "mcp"
+  ],
+  "category": "Featured",
+  "tags": [
+    "drive",
+    "files",
+    "mcp",
+    "google-workspace",
+    "featured"
+  ],
+  "mcpServers": "./mcp.json",
+  "authKind": "oauth",
+  "secretField": "GOOGLE_DRIVE_OAUTH_TOKEN",
+  "wired": true
+}

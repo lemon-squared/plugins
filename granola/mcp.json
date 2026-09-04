@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "granola": {
+      "type": "http",
+      "url": "https://mcp.granola.ai/mcp",
+      "headers": {
+        "Authorization": "Bearer ${GRANOLA_OAUTH_TOKEN}"
+      }
+    }
+  }
+}

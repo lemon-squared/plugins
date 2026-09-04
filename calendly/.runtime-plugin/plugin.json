@@ -1,0 +1,30 @@
+{
+  "name": "calendly",
+  "displayName": "Calendly",
+  "version": "0.1.0",
+  "description": "Check availability and book, cancel, or reschedule.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/calendly",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "calendly",
+    "scheduling",
+    "availability",
+    "mcp"
+  ],
+  "category": "Scheduling",
+  "tags": [
+    "calendly",
+    "scheduling",
+    "meetings",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json",
+  "authKind": "oauth",
+  "secretField": "CALENDLY_OAUTH_TOKEN",
+  "wired": false
+}

@@ -1,0 +1,32 @@
+{
+  "name": "github",
+  "displayName": "GitHub",
+  "version": "0.1.0",
+  "description": "Manage repos, issues, pull requests, and Actions.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/github",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "repos",
+    "issues",
+    "pull-requests",
+    "mcp"
+  ],
+  "category": "Infrastructure",
+  "tags": [
+    "github",
+    "git",
+    "prs",
+    "mcp",
+    "infrastructure"
+  ],
+  "mcpServers": "./mcp.json",
+  "authKind": "github_app",
+  "secretField": "GITHUB_TOKEN",
+  "wired": false
+}

@@ -1,0 +1,62 @@
+{
+  "name": "runtime-plugins",
+  "owner": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "metadata": {
+    "description": "Official Runtime plugin marketplace: MCP connectors, skills, and agent tools"
+  },
+  "plugins": [
+    {
+      "name": "gmail",
+      "source": "gmail",
+      "description": "Search, read, draft, and manage email."
+    },
+    {
+      "name": "google-calendar",
+      "source": "google-calendar",
+      "description": "Search events and schedule meetings."
+    },
+    {
+      "name": "google-drive",
+      "source": "google-drive",
+      "description": "Search, read, create, and share files."
+    },
+    {
+      "name": "granola",
+      "source": "granola",
+      "description": "Search meeting notes and transcripts."
+    },
+    {
+      "name": "notion",
+      "source": "notion",
+      "description": "Skills and MCP for pages, databases, and wikis."
+    },
+    {
+      "name": "slack",
+      "source": "slack",
+      "description": "Search, read, and send Slack messages over MCP."
+    },
+    {
+      "name": "github",
+      "source": "github",
+      "description": "Manage repos, issues, pull requests, and Actions."
+    },
+    {
+      "name": "todoist",
+      "source": "todoist",
+      "description": "Create, find, and complete tasks and projects."
+    },
+    {
+      "name": "calendly",
+      "source": "calendly",
+      "description": "Check availability and book, cancel, or reschedule."
+    },
+    {
+      "name": "create-plugin",
+      "source": "create-plugin",
+      "description": "Scaffold and validate new Runtime agent plugins."
+    }
+  ]
+}

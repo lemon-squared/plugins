@@ -1,0 +1,28 @@
+name: Validate plugins
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    paths:
+      - ".runtime-plugin/marketplace.json"
+      - "**/plugin.json"
+      - "**/mcp.json"
+      - "schemas/**"
+      - "scripts/**"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install --no-save ajv ajv-formats
+
+      - name: Validate plugin definitions
+        run: node scripts/validate.mjs

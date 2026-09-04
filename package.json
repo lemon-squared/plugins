@@ -1,0 +1,15 @@
+{
+  "name": "runtime-plugins",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Runtime plugin specification and official plugins",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}

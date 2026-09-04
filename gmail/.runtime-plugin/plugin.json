@@ -1,0 +1,32 @@
+{
+  "name": "gmail",
+  "displayName": "Gmail",
+  "version": "0.1.0",
+  "description": "Search, read, draft, and manage email.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/gmail",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "gmail",
+    "email",
+    "google",
+    "mcp",
+    "workspace"
+  ],
+  "category": "Featured",
+  "tags": [
+    "gmail",
+    "email",
+    "mcp",
+    "google-workspace",
+    "featured"
+  ],
+  "mcpServers": "./mcp.json",
+  "authKind": "oauth",
+  "secretField": "GMAIL_OAUTH_TOKEN",
+  "wired": true
+}

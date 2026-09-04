@@ -1,0 +1,31 @@
+{
+  "name": "google-calendar",
+  "displayName": "Google Calendar",
+  "version": "0.1.0",
+  "description": "Search events and schedule meetings.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/google-calendar",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "google-calendar",
+    "calendar",
+    "meetings",
+    "mcp"
+  ],
+  "category": "Featured",
+  "tags": [
+    "calendar",
+    "scheduling",
+    "mcp",
+    "google-workspace",
+    "featured"
+  ],
+  "mcpServers": "./mcp.json",
+  "authKind": "oauth",
+  "secretField": "GOOGLE_CALENDAR_OAUTH_TOKEN",
+  "wired": true
+}
