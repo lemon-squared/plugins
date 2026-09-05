@@ -2,10 +2,7 @@
   "mcpServers": {
     "todoist": {
       "type": "http",
-      "url": "https://ai.todoist.net/mcp",
-      "headers": {
-        "Authorization": "Bearer ${TODOIST_API_TOKEN}"
-      }
+      "url": "https://ai.todoist.net/mcp"
     }
   }
 }

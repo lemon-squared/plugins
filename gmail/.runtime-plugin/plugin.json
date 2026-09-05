@@ -10,7 +10,6 @@
   "homepage": "https://github.com/lemon-squared/plugins/tree/main/gmail",
   "repository": "https://github.com/lemon-squared/plugins",
   "license": "MIT",
-  "logo": "assets/logo.svg",
   "keywords": [
     "gmail",
     "email",
@@ -23,10 +22,10 @@
     "gmail",
     "email",
     "mcp",
-    "google-workspace",
-    "featured"
+    "google-workspace"
   ],
   "mcpServers": "./mcp.json",
+  "logo": "assets/logo.svg",
   "authKind": "oauth",
   "secretField": "GMAIL_OAUTH_TOKEN",
   "wired": true

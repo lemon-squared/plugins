@@ -10,23 +10,24 @@
   "homepage": "https://github.com/lemon-squared/plugins/tree/main/github",
   "repository": "https://github.com/lemon-squared/plugins",
   "license": "MIT",
-  "logo": "assets/logo.svg",
   "keywords": [
     "github",
-    "repos",
-    "issues",
+    "git",
+    "repositories",
     "pull-requests",
+    "issues",
+    "actions",
     "mcp"
   ],
   "category": "Infrastructure",
   "tags": [
     "github",
     "git",
-    "prs",
     "mcp",
-    "infrastructure"
+    "repositories"
   ],
   "mcpServers": "./mcp.json",
+  "logo": "assets/logo.svg",
   "authKind": "github_app",
   "secretField": "GITHUB_TOKEN",
   "wired": false

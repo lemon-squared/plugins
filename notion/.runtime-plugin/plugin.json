@@ -28,5 +28,6 @@
   "mcpServers": "./mcp.json",
   "authKind": "secret",
   "secretField": "NOTION_TOKEN",
-  "wired": true
+  "wired": true,
+  "logo": "assets/logo.svg"
 }

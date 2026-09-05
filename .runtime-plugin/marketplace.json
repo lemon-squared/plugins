@@ -57,6 +57,231 @@
       "name": "create-plugin",
       "source": "create-plugin",
       "description": "Scaffold and validate new Runtime agent plugins."
+    },
+    {
+      "name": "ahrefs",
+      "source": "ahrefs",
+      "description": "Research keywords, backlinks, rankings, and site health."
+    },
+    {
+      "name": "amplemarket",
+      "source": "amplemarket",
+      "description": "Search people and companies, enrich leads, run sequences."
+    },
+    {
+      "name": "ashby",
+      "source": "ashby",
+      "description": "Search candidates, prep interviews, and manage pipeline tasks."
+    },
+    {
+      "name": "brevo",
+      "source": "brevo",
+      "description": "Manage contacts, email and SMS campaigns, and CRM deals."
+    },
+    {
+      "name": "brex",
+      "source": "brex",
+      "description": "Query expenses, receipts, bills, cards, and travel."
+    },
+    {
+      "name": "circleback",
+      "source": "circleback",
+      "description": "Search meetings, transcripts, action items, and emails."
+    },
+    {
+      "name": "clay",
+      "source": "clay",
+      "description": "Enrich people and companies, run AI research agents."
+    },
+    {
+      "name": "coda",
+      "source": "coda",
+      "description": "Search docs, read pages, and update tables."
+    },
+    {
+      "name": "craft",
+      "source": "craft",
+      "description": "Search, create, and update documents and daily notes."
+    },
+    {
+      "name": "customer-io",
+      "source": "customer-io",
+      "description": "Build campaigns, manage segments, and query people."
+    },
+    {
+      "name": "docusign",
+      "source": "docusign",
+      "description": "Manage envelopes, templates, workflows, and agreements."
+    },
+    {
+      "name": "fathom",
+      "source": "fathom",
+      "description": "Search meetings and pull transcripts and summaries."
+    },
+    {
+      "name": "fireflies",
+      "source": "fireflies",
+      "description": "Search meeting transcripts, summaries, and action items."
+    },
+    {
+      "name": "godaddy",
+      "source": "godaddy",
+      "description": "Brainstorm domain names and check availability."
+    },
+    {
+      "name": "gong",
+      "source": "gong",
+      "description": "Pull account summaries, deal insights, and call briefs."
+    },
+    {
+      "name": "guru",
+      "source": "guru",
+      "description": "Search company knowledge and draft verified answers."
+    },
+    {
+      "name": "hubspot",
+      "source": "hubspot",
+      "description": "Search and update contacts, companies, deals, and tickets."
+    },
+    {
+      "name": "intercom",
+      "source": "intercom",
+      "description": "Search conversations, contacts, and Help Center articles."
+    },
+    {
+      "name": "jotform",
+      "source": "jotform",
+      "description": "Create and edit forms, then read submissions."
+    },
+    {
+      "name": "juicebox",
+      "source": "juicebox",
+      "description": "Query recruiting analytics, shortlists, and sourcing agents."
+    },
+    {
+      "name": "klaviyo",
+      "source": "klaviyo",
+      "description": "Manage profiles, segments, campaigns, and flows."
+    },
+    {
+      "name": "mailerlite",
+      "source": "mailerlite",
+      "description": "Manage subscribers, groups, campaigns, and automations."
+    },
+    {
+      "name": "mem",
+      "source": "mem",
+      "description": "Capture, search, and organize notes and collections."
+    },
+    {
+      "name": "mercury",
+      "source": "mercury",
+      "description": "Read balances, transactions, statements, and cards."
+    },
+    {
+      "name": "navan",
+      "source": "navan",
+      "description": "Query expenses, travel bookings, policies, and cards."
+    },
+    {
+      "name": "onedrive",
+      "source": "onedrive",
+      "description": "Browse, search, and read Microsoft OneDrive files."
+    },
+    {
+      "name": "otter",
+      "source": "otter",
+      "description": "Search meeting history and pull full transcripts."
+    },
+    {
+      "name": "outlook",
+      "source": "outlook",
+      "description": "Search, read, and send Microsoft Outlook email, and look up contacts."
+    },
+    {
+      "name": "outlook-calendar",
+      "source": "outlook-calendar",
+      "description": "List, create, update, and cancel Microsoft Outlook calendar events."
+    },
+    {
+      "name": "outreach",
+      "source": "outreach",
+      "description": "Search sequences, prospects, and Kaia meetings."
+    },
+    {
+      "name": "playwright",
+      "source": "playwright",
+      "description": "Navigate, click, screenshot, and test in a real browser."
+    },
+    {
+      "name": "profound",
+      "source": "profound",
+      "description": "Track AI visibility, sentiment, and citations."
+    },
+    {
+      "name": "readwise",
+      "source": "readwise",
+      "description": "Search highlights and Reader documents, save articles."
+    },
+    {
+      "name": "salesforce",
+      "source": "salesforce",
+      "description": "Query, create, and update records in your org."
+    },
+    {
+      "name": "semrush",
+      "source": "semrush",
+      "description": "Research keywords, backlinks, traffic, and competitors."
+    },
+    {
+      "name": "similarweb",
+      "source": "similarweb",
+      "description": "Analyze website traffic, audiences, and competitors."
+    },
+    {
+      "name": "smartsheet",
+      "source": "smartsheet",
+      "description": "Query and update sheets, rows, and workspaces."
+    },
+    {
+      "name": "typeform",
+      "source": "typeform",
+      "description": "Build forms, analyze responses, and manage contacts."
+    },
+    {
+      "name": "upwork",
+      "source": "upwork",
+      "description": "Search talent, post jobs, and manage contracts."
+    },
+    {
+      "name": "workable",
+      "source": "workable",
+      "description": "Search candidates, move pipelines, and manage HR records."
+    },
+    {
+      "name": "wrike",
+      "source": "wrike",
+      "description": "Search projects, create tasks, and post comments."
+    },
+    {
+      "name": "x",
+      "source": "x",
+      "description": "Search posts, read timelines, pull trends, and manage bookmarks."
+    },
+    {
+      "name": "x-ads",
+      "source": "x-ads",
+      "description": "Manage ad campaigns, create ads, track conversions, and pull performance stats."
+    },
+    {
+      "name": "xero",
+      "source": "xero",
+      "description": "Read and write invoices, contacts, reports, and payroll."
+    },
+    {
+      "name": "zoom",
+      "source": "zoom",
+      "description": "Search meetings, pull transcripts, and work with Zoom Docs."
     }
   ]
 }

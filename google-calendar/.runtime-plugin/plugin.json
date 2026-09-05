@@ -10,22 +10,23 @@
   "homepage": "https://github.com/lemon-squared/plugins/tree/main/google-calendar",
   "repository": "https://github.com/lemon-squared/plugins",
   "license": "MIT",
-  "logo": "assets/logo.svg",
   "keywords": [
     "google-calendar",
     "calendar",
-    "meetings",
-    "mcp"
+    "google",
+    "mcp",
+    "events",
+    "workspace"
   ],
   "category": "Featured",
   "tags": [
     "calendar",
-    "scheduling",
+    "events",
     "mcp",
-    "google-workspace",
-    "featured"
+    "google-workspace"
   ],
   "mcpServers": "./mcp.json",
+  "logo": "assets/logo.svg",
   "authKind": "oauth",
   "secretField": "GOOGLE_CALENDAR_OAUTH_TOKEN",
   "wired": true

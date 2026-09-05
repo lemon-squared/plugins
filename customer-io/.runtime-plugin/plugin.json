@@ -1,0 +1,32 @@
+{
+  "name": "customer-io",
+  "displayName": "Customer.io",
+  "version": "1.0.0",
+  "description": "Build campaigns, manage segments, and query people.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/customer-io",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "customer.io",
+    "customerio",
+    "marketing",
+    "campaigns",
+    "segments",
+    "messaging",
+    "mcp"
+  ],
+  "category": "Sales",
+  "tags": [
+    "customer-io",
+    "marketing",
+    "mcp",
+    "campaigns"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false
+}

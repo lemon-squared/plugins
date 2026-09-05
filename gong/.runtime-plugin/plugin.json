@@ -1,0 +1,32 @@
+{
+  "name": "gong",
+  "displayName": "Gong",
+  "version": "1.0.0",
+  "description": "Pull account summaries, deal insights, and call briefs.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/gong",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "gong",
+    "mcp",
+    "revenue",
+    "sales",
+    "calls",
+    "deals"
+  ],
+  "category": "Sales",
+  "tags": [
+    "mcp",
+    "sales",
+    "revenue-intelligence"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false,
+  "authKind": "secret",
+  "secretField": "CLIENT_SECRET"
+}

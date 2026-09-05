@@ -1,9 +1,40 @@
 # Gmail
 
-Search, read, draft, and manage Gmail. Runtime injects `${GMAIL_OAUTH_TOKEN}` from account auth — never commit secrets.
+Runtime plugin that connects agents to [Gmail](https://mail.google.com) through Google's remote [Model Context Protocol](https://modelcontextprotocol.io/) server.
 
-**Category:** Featured  
-**Auth:** `oauth` via `GMAIL_OAUTH_TOKEN`  
-**Wired:** true
+Search threads, read messages, manage labels and drafts, and compose mail in the signed-in Gmail account.
 
-Account-owned auth stays product-side. `mcp.json` uses `${ENV}` placeholders only.
+## Install
+
+1. Open **Runtime Settings → Plugins**.
+2. Search for **Gmail**.
+3. Click **Install**, then complete the Google sign-in prompt.
+
+Or run `/add-plugin gmail` in chat.
+
+## MCP
+
+```json
+{
+  "mcpServers": {
+    "gmail": {
+      "type": "http",
+      "url": "https://gmailmcp.googleapis.com/mcp/v1"
+    }
+  }
+}
+```
+
+Auth is OAuth 2.0 against Google. Runtime prompts for Google sign-in when the plugin connects.
+
+## Docs
+
+- Google MCP setup: https://developers.google.com/workspace/gmail/api/guides/configure-mcp-server
+- Workspace MCP overview: https://developers.google.com/workspace/guides/configure-mcp-servers
+
+Logo is the official Gmail product icon, placed on a white tile with padding so it reads well in the Runtime UI:
+https://www.gstatic.com/images/branding/productlogos/gmail_2026/v1/192px.svg
+
+## License
+
+MIT

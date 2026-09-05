@@ -2,10 +2,7 @@
   "mcpServers": {
     "gmail": {
       "type": "http",
-      "url": "https://gmailmcp.googleapis.com/mcp/v1",
-      "headers": {
-        "Authorization": "Bearer ${GMAIL_OAUTH_TOKEN}"
-      }
+      "url": "https://gmailmcp.googleapis.com/mcp/v1"
     }
   }
 }

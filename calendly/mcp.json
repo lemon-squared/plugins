@@ -2,10 +2,7 @@
   "mcpServers": {
     "calendly": {
       "type": "http",
-      "url": "https://mcp.calendly.com/mcp",
-      "headers": {
-        "Authorization": "Bearer ${CALENDLY_OAUTH_TOKEN}"
-      }
+      "url": "https://mcp.calendly.com/"
     }
   }
 }

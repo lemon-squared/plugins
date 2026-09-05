@@ -1,0 +1,32 @@
+{
+  "name": "outreach",
+  "displayName": "Outreach",
+  "version": "1.0.0",
+  "description": "Search sequences, prospects, and Kaia meetings.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/outreach",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "outreach",
+    "sales",
+    "sequences",
+    "prospects",
+    "kaia",
+    "crm",
+    "mcp"
+  ],
+  "category": "Sales",
+  "tags": [
+    "outreach",
+    "sales",
+    "mcp",
+    "sequences"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false
+}

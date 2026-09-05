@@ -1,0 +1,32 @@
+{
+  "name": "intercom",
+  "displayName": "Intercom",
+  "version": "1.0.0",
+  "description": "Search conversations, contacts, and Help Center articles.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/intercom",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "intercom",
+    "mcp",
+    "support",
+    "conversations",
+    "contacts",
+    "help-center",
+    "customer-support"
+  ],
+  "category": "Customer Support",
+  "tags": [
+    "intercom",
+    "support",
+    "mcp",
+    "crm"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.svg",
+  "wired": false
+}
