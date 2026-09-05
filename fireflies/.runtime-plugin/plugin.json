@@ -1,0 +1,31 @@
+{
+  "name": "fireflies",
+  "displayName": "Fireflies",
+  "version": "1.0.0",
+  "description": "Search meeting transcripts, summaries, and action items.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/fireflies",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "fireflies",
+    "meetings",
+    "transcripts",
+    "notes",
+    "action-items",
+    "mcp"
+  ],
+  "category": "Productivity",
+  "tags": [
+    "fireflies",
+    "meetings",
+    "mcp",
+    "transcripts"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false
+}

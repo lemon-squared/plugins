@@ -1,0 +1,32 @@
+{
+  "name": "brex",
+  "displayName": "Brex",
+  "version": "1.0.0",
+  "description": "Query expenses, receipts, bills, cards, and travel.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/brex",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "brex",
+    "expenses",
+    "spend",
+    "corporate-cards",
+    "finance",
+    "travel",
+    "mcp"
+  ],
+  "category": "Finance And Legal",
+  "tags": [
+    "brex",
+    "finance",
+    "mcp",
+    "expenses"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false
+}

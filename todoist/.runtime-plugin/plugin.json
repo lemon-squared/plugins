@@ -10,21 +10,23 @@
   "homepage": "https://github.com/lemon-squared/plugins/tree/main/todoist",
   "repository": "https://github.com/lemon-squared/plugins",
   "license": "MIT",
-  "logo": "assets/logo.png",
   "keywords": [
     "todoist",
     "tasks",
+    "todo",
     "projects",
+    "productivity",
     "mcp"
   ],
   "category": "Productivity",
   "tags": [
     "todoist",
     "tasks",
-    "productivity",
-    "mcp"
+    "mcp",
+    "productivity"
   ],
   "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
   "authKind": "secret",
   "secretField": "TODOIST_API_TOKEN",
   "wired": false

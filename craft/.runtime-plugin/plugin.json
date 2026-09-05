@@ -1,0 +1,31 @@
+{
+  "name": "craft",
+  "displayName": "Craft",
+  "version": "1.0.0",
+  "description": "Search, create, and update documents and daily notes.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/craft",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "craft",
+    "craft.do",
+    "notes",
+    "documents",
+    "writing",
+    "mcp"
+  ],
+  "category": "Documents And Files",
+  "tags": [
+    "craft",
+    "notes",
+    "mcp",
+    "documents"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false
+}

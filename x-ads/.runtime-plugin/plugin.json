@@ -1,0 +1,33 @@
+{
+  "name": "x-ads",
+  "displayName": "X Ads",
+  "version": "1.0.0",
+  "description": "Manage ad campaigns, create ads, track conversions, and pull performance stats.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/x-ads",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "x",
+    "twitter",
+    "ads",
+    "advertising",
+    "campaigns",
+    "conversions",
+    "analytics",
+    "mcp"
+  ],
+  "category": "Sales",
+  "tags": [
+    "x",
+    "ads",
+    "advertising",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false
+}

@@ -27,5 +27,6 @@
   "mcpServers": "./mcp.json",
   "authKind": "oauth",
   "secretField": "GRANOLA_OAUTH_TOKEN",
-  "wired": true
+  "wired": true,
+  "logo": "assets/logo.svg"
 }

@@ -10,22 +10,23 @@
   "homepage": "https://github.com/lemon-squared/plugins/tree/main/google-drive",
   "repository": "https://github.com/lemon-squared/plugins",
   "license": "MIT",
-  "logo": "assets/logo.svg",
   "keywords": [
     "google-drive",
+    "drive",
+    "google",
+    "mcp",
     "files",
-    "docs",
-    "mcp"
+    "workspace"
   ],
   "category": "Featured",
   "tags": [
     "drive",
     "files",
     "mcp",
-    "google-workspace",
-    "featured"
+    "google-workspace"
   ],
   "mcpServers": "./mcp.json",
+  "logo": "assets/logo.svg",
   "authKind": "oauth",
   "secretField": "GOOGLE_DRIVE_OAUTH_TOKEN",
   "wired": true

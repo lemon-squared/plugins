@@ -2,10 +2,7 @@
   "mcpServers": {
     "google-calendar": {
       "type": "http",
-      "url": "https://calendarmcp.googleapis.com/mcp/v1",
-      "headers": {
-        "Authorization": "Bearer ${GOOGLE_CALENDAR_OAUTH_TOKEN}"
-      }
+      "url": "https://calendarmcp.googleapis.com/mcp/v1"
     }
   }
 }

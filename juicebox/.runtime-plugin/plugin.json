@@ -1,0 +1,32 @@
+{
+  "name": "juicebox",
+  "displayName": "Juicebox",
+  "version": "1.0.0",
+  "description": "Query recruiting analytics, shortlists, and sourcing agents.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/juicebox",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "juicebox",
+    "recruiting",
+    "sourcing",
+    "candidates",
+    "shortlist",
+    "agents",
+    "mcp"
+  ],
+  "category": "Sales",
+  "tags": [
+    "juicebox",
+    "recruiting",
+    "mcp",
+    "sourcing"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false
+}

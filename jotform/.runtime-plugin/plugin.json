@@ -1,0 +1,30 @@
+{
+  "name": "jotform",
+  "displayName": "Jotform",
+  "version": "1.0.0",
+  "description": "Create and edit forms, then read submissions.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/jotform",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "jotform",
+    "forms",
+    "submissions",
+    "surveys",
+    "mcp"
+  ],
+  "category": "Productivity",
+  "tags": [
+    "jotform",
+    "forms",
+    "mcp",
+    "submissions"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false
+}

@@ -19,8 +19,51 @@ Monorepo companion: [lemon-squared/Runtime-Monorepo](https://github.com/lemon-sq
 | `todoist` | [Todoist](todoist/) | Runtime | Productivity | Create, find, and complete tasks and projects. |
 | `calendly` | [Calendly](calendly/) | Runtime | Scheduling | Check availability and book, cancel, or reschedule. |
 | `create-plugin` | [Create Plugin](create-plugin/) | Runtime | MCP | Scaffold and validate new Runtime agent plugins. |
-
-Author values match each plugin's `plugin.json` `author.name` (`plugins@lemonsquared.com`).
+| `ahrefs` | [Ahrefs](ahrefs/) | Runtime | Research | Research keywords, backlinks, rankings, and site health. |
+| `amplemarket` | [Amplemarket](amplemarket/) | Runtime | Sales | Search people and companies, enrich leads, run sequences. |
+| `ashby` | [Ashby](ashby/) | Runtime | Sales | Search candidates, prep interviews, and manage pipeline tasks. |
+| `brevo` | [Brevo](brevo/) | Runtime | Sales | Manage contacts, email and SMS campaigns, and CRM deals. |
+| `brex` | [Brex](brex/) | Runtime | Finance And Legal | Query expenses, receipts, bills, cards, and travel. |
+| `circleback` | [Circleback](circleback/) | Runtime | Productivity | Search meetings, transcripts, action items, and emails. |
+| `clay` | [Clay](clay/) | Runtime | Sales | Enrich people and companies, run AI research agents. |
+| `coda` | [Coda](coda/) | Runtime | Documents And Files | Search docs, read pages, and update tables. |
+| `craft` | [Craft](craft/) | Runtime | Documents And Files | Search, create, and update documents and daily notes. |
+| `customer-io` | [Customer.io](customer-io/) | Runtime | Sales | Build campaigns, manage segments, and query people. |
+| `docusign` | [Docusign](docusign/) | Runtime | Finance And Legal | Manage envelopes, templates, workflows, and agreements. |
+| `fathom` | [Fathom](fathom/) | Runtime | Productivity | Search meetings and pull transcripts and summaries. |
+| `fireflies` | [Fireflies](fireflies/) | Runtime | Productivity | Search meeting transcripts, summaries, and action items. |
+| `godaddy` | [GoDaddy](godaddy/) | Runtime | Infrastructure | Brainstorm domain names and check availability. |
+| `gong` | [Gong](gong/) | Runtime | Sales | Pull account summaries, deal insights, and call briefs. |
+| `guru` | [Guru](guru/) | Runtime | Documents And Files | Search company knowledge and draft verified answers. |
+| `hubspot` | [HubSpot](hubspot/) | Runtime | Sales | Search and update contacts, companies, deals, and tickets. |
+| `intercom` | [Intercom](intercom/) | Runtime | Customer Support | Search conversations, contacts, and Help Center articles. |
+| `jotform` | [Jotform](jotform/) | Runtime | Productivity | Create and edit forms, then read submissions. |
+| `juicebox` | [Juicebox](juicebox/) | Runtime | Sales | Query recruiting analytics, shortlists, and sourcing agents. |
+| `klaviyo` | [Klaviyo](klaviyo/) | Runtime | Sales | Manage profiles, segments, campaigns, and flows. |
+| `mailerlite` | [MailerLite](mailerlite/) | Runtime | Sales | Manage subscribers, groups, campaigns, and automations. |
+| `mem` | [Mem](mem/) | Runtime | Productivity | Capture, search, and organize notes and collections. |
+| `mercury` | [Mercury](mercury/) | Runtime | Finance And Legal | Read balances, transactions, statements, and cards. |
+| `navan` | [Navan](navan/) | Runtime | Scheduling | Query expenses, travel bookings, policies, and cards. |
+| `onedrive` | [OneDrive](onedrive/) | Runtime | Documents And Files | Browse, search, and read Microsoft OneDrive files. |
+| `otter` | [Otter.ai](otter/) | Runtime | Productivity | Search meeting history and pull full transcripts. |
+| `outlook` | [Outlook](outlook/) | Runtime | Inbox And Collaboration | Search, read, and send Microsoft Outlook email, and look up contacts. |
+| `outlook-calendar` | [Outlook Calendar](outlook-calendar/) | Runtime | Scheduling | List, create, update, and cancel Microsoft Outlook calendar events. |
+| `outreach` | [Outreach](outreach/) | Runtime | Sales | Search sequences, prospects, and Kaia meetings. |
+| `playwright` | [Playwright](playwright/) | Runtime | Infrastructure | Navigate, click, screenshot, and test in a real browser. |
+| `profound` | [Profound](profound/) | Runtime | Research | Track AI visibility, sentiment, and citations. |
+| `readwise` | [Readwise](readwise/) | Runtime | Productivity | Search highlights and Reader documents, save articles. |
+| `salesforce` | [Salesforce](salesforce/) | Runtime | Sales | Query, create, and update records in your org. |
+| `semrush` | [Semrush](semrush/) | Runtime | Research | Research keywords, backlinks, traffic, and competitors. |
+| `similarweb` | [Similarweb](similarweb/) | Runtime | Research | Analyze website traffic, audiences, and competitors. |
+| `smartsheet` | [Smartsheet](smartsheet/) | Runtime | Documents And Files | Query and update sheets, rows, and workspaces. |
+| `typeform` | [Typeform](typeform/) | Runtime | Productivity | Build forms, analyze responses, and manage contacts. |
+| `upwork` | [Upwork](upwork/) | Runtime | Productivity | Search talent, post jobs, and manage contracts. |
+| `workable` | [Workable](workable/) | Runtime | Sales | Search candidates, move pipelines, and manage HR records. |
+| `wrike` | [Wrike](wrike/) | Runtime | Productivity | Search projects, create tasks, and post comments. |
+| `x` | [X](x/) | Runtime | Inbox And Collaboration | Search posts, read timelines, pull trends, and manage bookmarks. |
+| `x-ads` | [X Ads](x-ads/) | Runtime | Sales | Manage ad campaigns, create ads, track conversions, and pull performance stats. |
+| `xero` | [Xero](xero/) | Runtime | Finance And Legal | Read and write invoices, contacts, reports, and payroll. |
+| `zoom` | [Zoom](zoom/) | Runtime | Scheduling | Search meetings, pull transcripts, and work with Zoom Docs. |
 
 ## Repository structure
 
