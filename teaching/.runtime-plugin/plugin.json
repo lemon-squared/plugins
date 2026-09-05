@@ -1,0 +1,27 @@
+{
+  "name": "teaching",
+  "displayName": "Teaching",
+  "version": "0.1.0",
+  "description": "Learning paths, practice checkpoints, and retrospectives for person coaching.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/teaching",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "teaching",
+    "learning",
+    "skills",
+    "coaching"
+  ],
+  "category": "Agent Orchestration",
+  "tags": [
+    "skills",
+    "teaching",
+    "first-party"
+  ],
+  "skills": "./skills/",
+  "wired": true
+}

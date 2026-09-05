@@ -1,0 +1,33 @@
+{
+  "name": "similarweb",
+  "displayName": "Similarweb",
+  "version": "1.0.0",
+  "description": "Analyze website traffic, audiences, and competitors.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/third_party/similarweb",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "similarweb",
+    "traffic",
+    "analytics",
+    "competitive-intelligence",
+    "audience",
+    "mcp"
+  ],
+  "category": "Research",
+  "tags": [
+    "similarweb",
+    "analytics",
+    "mcp",
+    "research"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false,
+  "authKind": "secret",
+  "secretField": "SIMILARWEB_API_KEY"
+}

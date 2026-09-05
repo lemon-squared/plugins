@@ -1,0 +1,31 @@
+{
+  "name": "mercury",
+  "displayName": "Mercury",
+  "version": "1.0.0",
+  "description": "Read balances, transactions, statements, and cards.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/third_party/mercury",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "mercury",
+    "banking",
+    "finance",
+    "transactions",
+    "statements",
+    "mcp"
+  ],
+  "category": "Finance And Legal",
+  "tags": [
+    "mercury",
+    "finance",
+    "mcp",
+    "banking"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false
+}

@@ -1,0 +1,32 @@
+{
+  "name": "ahrefs",
+  "displayName": "Ahrefs",
+  "version": "1.0.0",
+  "description": "Research keywords, backlinks, rankings, and site health.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/third_party/ahrefs",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "ahrefs",
+    "seo",
+    "backlinks",
+    "keywords",
+    "rank-tracking",
+    "site-audit",
+    "mcp"
+  ],
+  "category": "Research",
+  "tags": [
+    "ahrefs",
+    "seo",
+    "mcp",
+    "backlinks"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false
+}

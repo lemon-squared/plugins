@@ -1,0 +1,32 @@
+{
+  "name": "navan",
+  "displayName": "Navan",
+  "version": "1.0.0",
+  "description": "Query expenses, travel bookings, policies, and cards.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/third_party/navan",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "navan",
+    "mcp",
+    "travel",
+    "expenses",
+    "spend",
+    "corporate-cards",
+    "bookings"
+  ],
+  "category": "Scheduling",
+  "tags": [
+    "navan",
+    "travel",
+    "expenses",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false
+}

@@ -1,0 +1,33 @@
+{
+  "name": "playwright",
+  "displayName": "Playwright",
+  "version": "1.0.0",
+  "description": "Navigate, click, screenshot, and test in a real browser.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/third_party/playwright",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "playwright",
+    "browser",
+    "automation",
+    "testing",
+    "e2e",
+    "mcp"
+  ],
+  "category": "Infrastructure",
+  "tags": [
+    "playwright",
+    "browser",
+    "automation",
+    "testing",
+    "e2e",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.svg",
+  "wired": false
+}

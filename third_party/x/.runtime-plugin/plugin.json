@@ -1,0 +1,35 @@
+{
+  "name": "x",
+  "displayName": "X",
+  "version": "2.2.0",
+  "description": "Search posts, read timelines, pull trends, and manage bookmarks.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/third_party/x",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "x",
+    "twitter",
+    "posts",
+    "search",
+    "trends",
+    "news",
+    "lists",
+    "bookmarks",
+    "social",
+    "mcp"
+  ],
+  "category": "Inbox And Collaboration",
+  "tags": [
+    "x",
+    "social",
+    "search",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.svg",
+  "wired": false
+}

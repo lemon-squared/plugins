@@ -1,0 +1,31 @@
+{
+  "name": "typeform",
+  "displayName": "Typeform",
+  "version": "1.0.0",
+  "description": "Build forms, analyze responses, and manage contacts.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/third_party/typeform",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "typeform",
+    "forms",
+    "surveys",
+    "responses",
+    "insights",
+    "mcp"
+  ],
+  "category": "Productivity",
+  "tags": [
+    "typeform",
+    "forms",
+    "mcp",
+    "surveys"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false
+}

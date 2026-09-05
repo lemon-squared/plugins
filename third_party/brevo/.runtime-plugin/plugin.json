@@ -1,0 +1,34 @@
+{
+  "name": "brevo",
+  "displayName": "Brevo",
+  "version": "1.0.0",
+  "description": "Manage contacts, email and SMS campaigns, and CRM deals.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/third_party/brevo",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "brevo",
+    "sendinblue",
+    "email",
+    "sms",
+    "marketing",
+    "crm",
+    "mcp"
+  ],
+  "category": "Sales",
+  "tags": [
+    "brevo",
+    "email",
+    "mcp",
+    "marketing"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false,
+  "authKind": "secret",
+  "secretField": "BREVO_MCP_TOKEN"
+}

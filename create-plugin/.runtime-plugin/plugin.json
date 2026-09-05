@@ -17,10 +17,11 @@
     "marketplace",
     "plugin-authoring"
   ],
-  "category": "MCP",
+  "category": "Agent Orchestration",
   "tags": [
-    "meta",
     "authoring",
+    "first-party",
+    "meta",
     "templates"
   ],
   "skills": "./skills/",
