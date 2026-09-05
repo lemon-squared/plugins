@@ -1,0 +1,33 @@
+{
+  "name": "docusign",
+  "displayName": "Docusign",
+  "version": "1.0.0",
+  "description": "Manage envelopes, templates, workflows, and agreements.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/third_party/docusign",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "docusign",
+    "esignature",
+    "agreements",
+    "mcp",
+    "envelopes",
+    "contracts"
+  ],
+  "category": "Finance And Legal",
+  "tags": [
+    "mcp",
+    "docusign",
+    "agreements",
+    "esignature"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false,
+  "authKind": "secret",
+  "secretField": "CLIENT_SECRET"
+}

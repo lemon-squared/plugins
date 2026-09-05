@@ -1,0 +1,31 @@
+{
+  "name": "slack",
+  "displayName": "Slack",
+  "version": "0.1.0",
+  "description": "Search, read, and send Slack messages over MCP.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/third_party/slack",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "slack",
+    "chat",
+    "messaging",
+    "mcp"
+  ],
+  "category": "Featured",
+  "tags": [
+    "slack",
+    "messaging",
+    "mcp",
+    "featured"
+  ],
+  "mcpServers": "./mcp.json",
+  "authKind": "oauth",
+  "secretField": "SLACK_MCP_TOKEN",
+  "wired": true,
+  "logo": "assets/logo.svg"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "continual-learning",
+  "displayName": "Continual Learning",
+  "version": "0.1.0",
+  "description": "Mine person transcripts and update durable Runtime memory via a dedicated updater brief.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/continual-learning",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "memory",
+    "learning",
+    "skills",
+    "transcripts"
+  ],
+  "category": "Agent Orchestration",
+  "tags": [
+    "skills",
+    "memory",
+    "first-party"
+  ],
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "wired": true
+}

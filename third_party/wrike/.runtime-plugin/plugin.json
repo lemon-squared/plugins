@@ -1,0 +1,33 @@
+{
+  "name": "wrike",
+  "displayName": "Wrike",
+  "version": "1.0.0",
+  "description": "Search projects, create tasks, and post comments.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/third_party/wrike",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "wrike",
+    "project-management",
+    "tasks",
+    "projects",
+    "work-management",
+    "mcp"
+  ],
+  "category": "Productivity",
+  "tags": [
+    "wrike",
+    "project-management",
+    "mcp",
+    "tasks"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false,
+  "authKind": "secret",
+  "secretField": "WRIKE_ACCESS_TOKEN"
+}

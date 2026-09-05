@@ -1,0 +1,32 @@
+{
+  "name": "clay",
+  "displayName": "Clay",
+  "version": "1.0.0",
+  "description": "Enrich people and companies, run AI research agents.",
+  "author": {
+    "name": "Runtime",
+    "email": "plugins@lemonsquared.com"
+  },
+  "homepage": "https://github.com/lemon-squared/plugins/tree/main/third_party/clay",
+  "repository": "https://github.com/lemon-squared/plugins",
+  "license": "MIT",
+  "keywords": [
+    "clay",
+    "enrichment",
+    "prospecting",
+    "gtm",
+    "sales",
+    "data",
+    "mcp"
+  ],
+  "category": "Sales",
+  "tags": [
+    "clay",
+    "sales",
+    "enrichment",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json",
+  "logo": "assets/logo.png",
+  "wired": false
+}
